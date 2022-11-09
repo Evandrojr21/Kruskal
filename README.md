@@ -15,14 +15,15 @@ Utilizando uma imagem do estado do Rio de Janeiro e seus municípios:
 
 [Imagem do Rio de janeiro](http://www.hemorio.rj.gov.br/Html/Hemorrede_mapa.htm/)
 
-Com isso, pegaram a distancia de cada municipio para o seus municípios limítrofes
+Com isso, pegaram a distância de cada municipio para o seus municípios limítrofes
 ,a partir disto, foi possível formular uma planilha contendo os vértices
 (municípios) de origem e destino, com seus respectivos pesos, que seriam
 representados pela distância entre um município e outro.
 
 [Acesso a planilha](https://docs.google.com/spreadsheets/d/e/2PACX-1vRIUrtwIgc5Q6mud0Ewy_yp2xDa-ifIYGSSDJk8diCs_UkqP8vwR8Fupqm6b0MViZ59MilRHt6NSwVV/pubhtml/)
 
-E com isso, foi utilizado o site distâncias entre cidades:
+E com isso, foi utilizado o site distâncias entre cidades para calcular a distância de um município para
+o seu município limítrofe:
 
 http://www.distanciascidades.com/pesquisa/
 
